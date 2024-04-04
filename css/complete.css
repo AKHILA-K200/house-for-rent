@@ -1,0 +1,23 @@
+body
+{
+	background-image:url("images/im1.jpg");
+	height:100%;
+	width:100%;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+table{
+width:50%;
+margin:30px auto;
+border-collapse:collapse;
+text-align:center;
+}
+tr,td
+{
+border-bottom:1px solid #cbcbcbc;
+}
+
+th,td{
+background:#f5f5f5f;
+}

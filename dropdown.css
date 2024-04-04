@@ -1,0 +1,77 @@
+.login{
+ background-color:#00BFFF;
+ text-align: center;
+ width:100px;
+ height:35px;
+ color: #f2f2f2;
+ border-radius: 5px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color:#00BFFF ;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-align: left;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-stretch: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color:#00BFFF;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color:white;
+  color:black;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color:#00BFFF;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  color:black;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  background-color:#00BFFF;
+  display: block;
+  text-align: left;
+  color:white;
+}
+
+.dropdown-content a:hover {
+  background-color:#FFFFFF;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}

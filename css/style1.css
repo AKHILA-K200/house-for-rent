@@ -1,0 +1,40 @@
+
+body {
+  margin: 0;
+  }
+  
+  td{
+    font-color:solid black;
+  }
+ #fontletter{
+      text-shadow: 4px 4px #FF0000;
+      font-size:100px;
+      font-family:URW Chancery L;
+      }
+ .topnav {
+ overflow: hidden;
+  background-color:black;
+}
+
+.topnav a {
+  float: left;
+  color:#FFFFFF;
+  text-align: center;
+  padding: 14px 14px;
+  font-size: 20px;
+}
+
+.topnav a:hover, {
+  background-color:white; ;
+  color: black;
+}
+
+ 
+
+
+ .but{
+ color:#FF0000;
+  text-shdow:0 5px #666;
+  transform:transalateY(4px);
+  
+}

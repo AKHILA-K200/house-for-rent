@@ -1,0 +1,12 @@
+
+a:link, a:visited {
+  background-color: #00BFFF;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: white;
+}

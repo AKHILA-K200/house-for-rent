@@ -1,0 +1,20 @@
+#letters{
+ color:black;
+ font-size:25PX;
+ text-decoration:bold;
+  font-family:Liberation Sans;
+  }
+table{
+ margin:30px;
+ }
+.error{
+   color:red;
+   }
+  .grad{
+   background-image:linear-gradient(to right,#FAF0E6,#F0FFFF	);
+}    
+    
+ .col{
+   color:#000000;
+   font-size:30px;
+   }
